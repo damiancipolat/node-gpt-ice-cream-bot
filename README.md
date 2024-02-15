@@ -1,5 +1,7 @@
 # Heladería Virtual Assistant
 
+Simple ejemplo de como crear un asistente de chat para ventas, usando tecnologia de openai.
+
 ## Descripción
 
 Bienvenido al repositorio del Asistente Virtual de Heladería, un proyecto innovador diseñado para simular una experiencia interactiva de cliente con una heladería a través de la línea de comandos. Este asistente virtual está desarrollado utilizando Node.js y aprovecha la potente API de OpenAI para procesar y responder a las consultas de los usuarios de manera natural y efectiva.
@@ -27,6 +29,10 @@ Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo desde [n
    cd heladeria-virtual-assistant
 3. Instala las dependencias:
    npm install
+4. Crear archivo .env en el root del proyecto.
+   touch .env
+5. Setear variable de entorno:
+   OPENAI_API_KEY = 'token-open-ai'
 
 ### Uso
 
@@ -54,4 +60,4 @@ Las contribuciones son lo que hacen a la comunidad de código abierto un lugar i
 
 ## Contacto
 
-Tu Nombre - [@brigthbyte](https://twitter.com/brigthbyte)
+Brigthbyte - [@brigthbyte](https://twitter.com/brigthbyte)
