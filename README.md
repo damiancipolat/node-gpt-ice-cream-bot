@@ -17,6 +17,7 @@ Bienvenido al repositorio del Asistente Virtual de Heladería, un proyecto innov
 
 ## Demo:
 
+Haz click en la imagén para ver el video.
 [![Youtube demo](https://img.youtube.com/vi/wfg8oRGHwis/sddefault.jpg)](https://www.youtube.com/watch?v=wfg8oRGHwis&ab_channel=damiancipolat)
 
 ## Empezando:
