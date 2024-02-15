@@ -1,0 +1,40 @@
+const helados = [
+  { id: 1, nombre: '1/4 kg de helado', precio: 2500, sabores: 2 },
+  { id: 2, nombre: '1/2 kg de helado', precio: 5000, sabores: 3 },
+  { id: 3, nombre: '1 kg de helado', precio: 1200, sabores: 4 },
+];
+
+const sabores = [
+  'Vainilla',
+  'Chocolate',
+  'Fresa',
+  'Limón',
+  'Menta Chocolate',
+  'Dulce de Leche',
+  'Cookies and Cream',
+  'Pistacho',
+  'Mango',
+  'Coco',
+  'Café',
+  'Avellana',
+  'Caramelo Salado',
+  'Tiramisú',
+  'Cheesecake de Fresa',
+  'Cherry',
+  'Banana Split',
+  'Arándano',
+  'Kiwi',
+  'Melón',
+  'Maracuyá',
+  'Amaretto',
+  'Chocolate Blanco',
+  'Macadamia Nut',
+  'Rum con Pasas',
+  'Matcha',
+  'Frambuesa',
+  'Galleta de Jengibre',
+  'Mora',
+  'Crema de Whisky',
+];
+
+module.exports = { helados, sabores };

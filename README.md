@@ -1,3 +1,5 @@
+<img src="https://github.com/damiancipolat/node-gpt-ice-cream-bot/blob/main/logo.jpeg?raw=true" width="150px" align="right" />
+
 # Heladería Virtual Assistant
 
 Simple ejemplo de como crear un asistente de chat para ventas, usando tecnologia de openai.
